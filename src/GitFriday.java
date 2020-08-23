@@ -5,7 +5,6 @@ public class GitFriday {
 
         //comment 1 <<<<<<< HEAD
         //commamt 2
-
         //comment 3
 >>>>>>> refs/remotes/origin/maste
 
