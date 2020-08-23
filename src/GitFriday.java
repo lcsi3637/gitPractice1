@@ -3,12 +3,11 @@ public class GitFriday {
     {
         System.out.println("Happy to see you B18");
 
-        //comment 1
-<<<<<<< HEAD
+        //comment 1 <<<<<<< HEAD
         //commamt 2
-=======
+
         //comment 3
->>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/maste
 
     }
 }
