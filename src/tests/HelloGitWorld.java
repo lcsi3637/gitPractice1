@@ -7,4 +7,5 @@ public class HelloGitWorld {
   
   // how is going 
     // Baris nasil gidiyor
+    //nasilsin abi
 }
