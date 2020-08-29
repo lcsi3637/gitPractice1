@@ -5,5 +5,6 @@ public class HelloGitWorld {
         System.out.println("hello world");
     }
   
-  // how is going
+  // how is going 
+    // Baris nasil gidiyor
 }
